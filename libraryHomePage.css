@@ -1,0 +1,244 @@
+body {
+font-family: 'Raleway', sans-serif;
+background-image: url("https://libapps.s3.amazonaws.com/customers/442/images/BlurredBooksFull.jpg");background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+padding-left: 0px;
+padding-right: 0px;
+
+}
+#s-lg-guide-header, #s-lib-banner{
+ background: rgba(255, 255, 255, .9);
+padding-left: 15px;
+  width: 100%;
+}
+
+#s-lg-guide-main{
+
+ background: rgba(255, 255, 255, 0.5);
+  padding: 10px;
+
+}
+
+#s-lg-tabs-container {
+font-size: 16px;
+}
+.s-lib-box-content
+{ padding: 8px;
+margin: 10px;
+}
+#findbooks{
+color:#255b8c;
+}
+/*increases box header size*/
+.s-lib-box .s-lib-box-title { font-size: 1.4em;}
+/*changes box header color*/
+div#s-lg-box-15762188 .s-lib-box-title {background-color: #000000;}
+/*changes box header color*/
+div#s-lg-box-15762189 .s-lib-box-title {background-color: #6a7eba;}
+/*changes box header color*/
+div#s-lg-box-15762190 .s-lib-box-title {background-color: #6a7eba;}
+/*changes box header color*/
+div#s-lg-box-15762209 .s-lib-box-title {background-color: #6a7eba;}
+/*changes box header color*/
+div#s-lg-box-15762194 .s-lib-box-title {background-color: #95190c;}
+/*changes box header color*/
+div#s-lg-box-15762192 .s-lib-box-title {background-color: #8C9393;}
+/*changes box header color*/
+div#s-lg-box-15764122 .s-lib-box-title {background-color: #8C9393;}
+div#s-lg-box-16317330 .s-lib-box-title {background-color: #000000;}
+div#s-lg-box-16906524 .s-lib-box {background-color: #EDF2F6;} 
+div#s-lg-box-17170050 .s-lib-box {background-color: #000000;}
+body {
+font-family: 'Raleway', sans-serif;
+
+}
+
+/*increases box header size*/
+.s-lib-box .s-lib-box-title { font-size: 1.4em;}
+body {
+font-family: 'Raleway', sans-serif;
+}
+  .s-lg-guide-body .ui-dialog .ui-widget-header button.ui-button span:first-child,
+  .s-lib-public-body .ui-dialog .ui-widget-header button.ui-button span:first-child {
+    margin: -8px;
+  }
+.button {
+  background-color: #d4eeff;
+opacity: 0.75;
+  border: none;
+  color: #173766;
+  padding: 5px 10px;
+  text-align: center;
+font-weight: bold;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 2px 4px;
+width: 100%;
+  cursor: pointer;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.19);
+}
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  top: 0;
+  right: -15px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  right: 0;
+}
+
+.button:hover {
+opacity: 1;
+}
+
+a.button:link {color:#000000; }
+a.button:visited {color:#000000;}
+a.button:hover {color:#173766;}
+
+
+/*yellow button*/
+.ybutton {
+  background-color: #ffc000;
+opacity: 0.75;
+  border: none;
+  color: #173766;
+  padding: 5px 10px;
+  text-align: center;
+font-weight: bold;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 2px 2px;
+width: 100%;
+  cursor: pointer;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.19);
+}
+.ybutton span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.ybutton span:after {
+  content: '\00bb';
+  position: absolute;
+  top: 0;
+  right: -15px;
+  transition: 0.5s;
+}
+
+.ybutton:hover span {
+  padding-right: 25px;
+}
+
+.ybutton:hover span:after {
+  right: 0;
+}
+
+.ybutton:hover {
+opacity: 1;
+}
+
+a.ybutton:link {color:#000000; }
+a.ybutton:visited {color:#000000;}
+a.ybutton:hover {color:#173766;}
+
+/*library card button*/
+
+.lbutton {
+  background-color: #174fa3;
+opacity: 0.75;
+  border: none;
+  color: #ffffff;
+  padding: 5px 10px;
+  text-align: center;
+font-weight: bold;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 2px 2px;
+width: 100%;
+  cursor: pointer;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.19);
+}
+.lbutton span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.lbutton span:after {
+  content: '\00bb';
+  position: absolute;
+  top: 0;
+  right: -15px;
+  transition: 0.5s;
+}
+
+.lbutton:hover span {
+  padding-right: 25px;
+}
+
+.lbutton:hover span:after {
+  right: 0;
+}
+
+.lbutton:hover {
+opacity: 1;
+}
+
+a.lbutton:link {color:#ffffff; }
+a.lbutton:visited {color:#ffffff;}
+a.lbutton:hover {color:#dff2ff;}
+
+
+
+
+
+p.animated {
+  border-right: solid 3px rgba(0,255,0,.75);
+  white-space: nowrap;
+  overflow: hidden;    
+  font-family: 'Raleway';  
+  font-size: 28px;
+  color: rgba(255,255,255,.70);
+  margin: 0 auto;
+}
+
+/* Animation */
+p.animated {
+  animation: animated-text 4s steps(29,end) 1s 1 normal both,
+             animated-cursor 600ms steps(29,end) infinite;
+}
+
+/* text animation */
+
+@keyframes animated-text{
+  from{width: 0;}
+  to{width: 472px;}
+}
+
+/* cursor animations */
+
+@keyframes animated-cursor{
+  from{border-right-color: rgba(255,192,0,.75);}
+  to{border-right-color: transparent;}
+}
+
